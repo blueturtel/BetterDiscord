@@ -1,11 +1,11 @@
 :root {
-  --app-bg: url(https://i.imgur.com/bgmVeyt.jpg);
+  --app-bg: url(https://wallpapercave.com/wp/wp5046590.jpg);
   --app-blur: 6px;
   --app-margin: 24px;
   --app-radius: 10px;
   --sidebar-color: rgba(0,0,0,0.4);
   --main-content-color: rgba(0,0,0,0.2);
-  --accent-hue: 156;
+  --accent-hue: 47;
   --accent-saturation: 77.5%;
   --accent-lightness: 47.1%;
   --accent-hsl: var(--accent-hue),calc(var(--accent-saturation) * var(--saturation-factor)),var(--accent-lightness);
@@ -27,7 +27,7 @@
   --mention-saturation: var(--accent-saturation);
   --mention-lightness: var(--accent-lightness);
   --mention-hsl: var(--mention-hue),calc(var(--mention-saturation) * var(--saturation-factor)),var(--mention-lightness);
-  --mention-opacity: 1;
+  --mention-opacity: 0;
   --reply-hue: 226;
   --reply-saturation: 77.4%;
   --reply-lightness: 61.8%;
